@@ -4,7 +4,8 @@
 
 - Node JS
 - Docker daemon running
-
+- Watch basic serverless framework tutorials
+- AWS account to link it to serverless
 ## Steps
 
 - get all the dependencies to requirements.txt (Example requirements.txt should have most of it already)
